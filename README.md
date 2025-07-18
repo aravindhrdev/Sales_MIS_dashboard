@@ -23,10 +23,6 @@ This Excel-based MIS (Management Information System) dashboard provides interact
 - Excel Slicers
 - VBA (Macros) for automation
 
-## 📸 Preview
-
-> (Insert screenshots here in a `screenshots/` folder if desired)
-
 ## 💡 Use Case
 
 Ideal for small businesses, finance teams, and students learning business reporting and automation using Excel.
